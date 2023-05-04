@@ -16,43 +16,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "tutorial-basics/create-a-copilot",
+              "path": "/docs/tutorial-basics/create-a-copilot",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "tutorial-basics/integrate-a-copilot",
+              "path": "/docs/tutorial-basics/integrate-a-copilot",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "tutorial-basics/what-is-copilot",
+              "path": "/docs/tutorial-basics/what-is-copilot",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "tutorial-extras/prompt-engineer",
+              "path": "/docs/tutorial-extras/prompt-engineer",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/technique-behind",
+              "path": "/docs/tutorial-extras/technique-behind",
               "sidebar": "tutorialSidebar"
             },
             {

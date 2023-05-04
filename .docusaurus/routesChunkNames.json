@@ -186,7 +186,7 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-c2b": {
+  "/docs-d04": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docsdc-8-d86"
@@ -205,37 +205,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/tutorial-basics/congratulations-793": {
+  "/docs/tutorial-basics/create-a-copilot-596": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "content": "content---docs-tutorial-basics-create-a-copiloteed-89b"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
+  "/docs/tutorial-basics/integrate-a-copilot-66e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+    "content": "content---docs-tutorial-basics-integrate-a-copilot-129-a49"
   },
-  "/docs/tutorial-basics/create-a-document-c2d": {
+  "/docs/tutorial-basics/what-is-copilot-c48": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+    "content": "content---docs-tutorial-basics-what-is-copilotdd-4-3c3"
   },
-  "/docs/tutorial-basics/create-a-page-f44": {
+  "/docs/tutorial-extras/prompt-engineer-034": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
+    "content": "content---docs-tutorial-extras-prompt-engineer-35-d-dfb"
   },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
+  "/docs/tutorial-extras/technique-behind-458": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/docs/tutorial-basics/markdown-features-4b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
-  },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
-  },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---docs-tutorial-extras-technique-behindb-5-a-29e"
   },
   "/-a7a": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

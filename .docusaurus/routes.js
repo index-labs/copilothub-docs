@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c2b'),
+    component: ComponentCreator('/docs', 'd04'),
     routes: [
       {
         path: '/docs/category/tutorial---basics',
@@ -120,50 +120,32 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
+        path: '/docs/tutorial-basics/create-a-copilot',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-copilot', '596'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
+        path: '/docs/tutorial-basics/integrate-a-copilot',
+        component: ComponentCreator('/docs/tutorial-basics/integrate-a-copilot', '66e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
+        path: '/docs/tutorial-basics/what-is-copilot',
+        component: ComponentCreator('/docs/tutorial-basics/what-is-copilot', 'c48'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
+        path: '/docs/tutorial-extras/prompt-engineer',
+        component: ComponentCreator('/docs/tutorial-extras/prompt-engineer', '034'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+        path: '/docs/tutorial-extras/technique-behind',
+        component: ComponentCreator('/docs/tutorial-extras/technique-behind', '458'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

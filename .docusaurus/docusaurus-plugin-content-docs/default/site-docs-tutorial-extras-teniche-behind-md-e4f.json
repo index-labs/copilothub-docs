@@ -1,0 +1,20 @@
+{
+  "unversionedId": "tutorial-extras/teniche-behind",
+  "id": "tutorial-extras/teniche-behind",
+  "title": "teniche-behind",
+  "description": "",
+  "source": "@site/docs/tutorial-extras/teniche-behind.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/teniche-behind",
+  "permalink": "/docs/tutorial-extras/teniche-behind",
+  "draft": false,
+  "editUrl": "https://github.com/index-labs/Copilothub-Docs/docs/tutorial-extras/teniche-behind.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/tutorial-extras/prompt-engineer"
+  }
+}

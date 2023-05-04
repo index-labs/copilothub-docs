@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-extras/technique-behind",
+  "id": "tutorial-extras/technique-behind",
+  "title": "Techniques (WIP)",
+  "description": "Technique structure behind Copilot Hub.",
+  "source": "@site/docs/tutorial-extras/technique-behind.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/technique-behind",
+  "permalink": "/docs/tutorial-extras/technique-behind",
+  "draft": false,
+  "editUrl": "https://github.com/index-labs/Copilothub-Docs/docs/tutorial-extras/technique-behind.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prompt Enginner (WIP)",
+    "permalink": "/docs/tutorial-extras/prompt-engineer"
+  }
+}

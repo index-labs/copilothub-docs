@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/what-is-copilot",
+  "id": "tutorial-basics/what-is-copilot",
+  "title": "What is a Copilot",
+  "description": "Copilot is an AI-powered assistant that can help you complete specific tasks. For example, it can act as a digital character, coding assistant, legal consultant, and much more. With Copilot, you can achieve more in less time and collaborate with others more effectively.",
+  "source": "@site/docs/tutorial-basics/what-is-copilot.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/what-is-copilot",
+  "permalink": "/docs/tutorial-basics/what-is-copilot",
+  "draft": false,
+  "editUrl": "https://github.com/index-labs/Copilothub-Docs/docs/tutorial-basics/what-is-copilot.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  },
+  "next": {
+    "title": "Create a Copilot",
+    "permalink": "/docs/tutorial-basics/create-a-copilot"
+  }
+}

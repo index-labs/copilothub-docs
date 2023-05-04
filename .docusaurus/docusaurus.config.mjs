@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Copilot Hub",
+  "tagline": "Create and explore AI assistants in Copilot Hub",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "index-labs",
+  "projectName": "Copilothub-Docs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/bohan/Desktop/IndexLabs/Copilothub-Docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/index-labs/Copilothub-Docs"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/index-labs/Copilothub-Docs"
         },
         "theme": {
           "customCss": "/Users/bohan/Desktop/IndexLabs/Copilothub-Docs/src/css/custom.css"
@@ -42,7 +42,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Copilot Hub",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -55,12 +55,7 @@ export default {
           "label": "Tutorial"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/index-labs/Copilothub-Docs",
           "label": "GitHub",
           "position": "right"
         }
@@ -83,16 +78,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/CopilotHubAI"
+            },
+            {
+              "label": "Telegram",
+              "href": "https://t.me/copilothub_cn"
             }
           ]
         },
@@ -100,17 +91,13 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
               "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 Copilot Hub, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

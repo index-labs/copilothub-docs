@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/prompt-engineer",
+  "id": "tutorial-extras/prompt-engineer",
+  "title": "Prompt Enginner (WIP)",
+  "description": "One of the most powerful features for modern LLM is an ability called few-shot learning, which means that the model could perform very well based on the given input instead of fine-tuneing for every specific tasks.",
+  "source": "@site/docs/tutorial-extras/prompt-engineer.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/prompt-engineer",
+  "permalink": "/docs/tutorial-extras/prompt-engineer",
+  "draft": false,
+  "editUrl": "https://github.com/index-labs/Copilothub-Docs/docs/tutorial-extras/prompt-engineer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  },
+  "next": {
+    "title": "Techniques (WIP)",
+    "permalink": "/docs/tutorial-extras/technique-behind"
+  }
+}

@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "Introduction",
         "href": "/docs/intro",
         "docId": "intro"
       },
@@ -23,39 +23,21 @@
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page"
+            "label": "What is a Copilot",
+            "href": "/docs/tutorial-basics/what-is-copilot",
+            "docId": "tutorial-basics/what-is-copilot"
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document"
+            "label": "Create a Copilot",
+            "href": "/docs/tutorial-basics/create-a-copilot",
+            "docId": "tutorial-basics/create-a-copilot"
           },
           {
             "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations"
+            "label": "Copilot Integration",
+            "href": "/docs/tutorial-basics/integrate-a-copilot",
+            "docId": "tutorial-basics/integrate-a-copilot"
           }
         ],
         "href": "/docs/category/tutorial---basics"
@@ -68,15 +50,15 @@
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions"
+            "label": "Prompt Enginner (WIP)",
+            "href": "/docs/tutorial-extras/prompt-engineer",
+            "docId": "tutorial-extras/prompt-engineer"
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site"
+            "label": "Techniques (WIP)",
+            "href": "/docs/tutorial-extras/technique-behind",
+            "docId": "tutorial-extras/technique-behind"
           }
         ],
         "href": "/docs/category/tutorial---extras"
@@ -86,56 +68,38 @@
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Introduction",
+      "description": "Welcome to Copilot Hub, the platform that makes creating and exploring Copilots easier than ever before! Copilot Hub provides a simple and intuitive way to create a Copilot based on personal data. Here anyone can create a Copilot without the need for coding. This means that everyone can fully utilize AI abilities, opening up a world of possibilities for collaboration and productivity.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+    "tutorial-basics/create-a-copilot": {
+      "id": "tutorial-basics/create-a-copilot",
+      "title": "Create a Copilot",
+      "description": "Instruction about how to create a Copilot in our platform.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+    "tutorial-basics/integrate-a-copilot": {
+      "id": "tutorial-basics/integrate-a-copilot",
+      "title": "Copilot Integration",
+      "description": "Besides making interaction on our website, we will also provide multiple integration approaches for you to integrate a Copilot into your own project or applications.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
+    "tutorial-basics/what-is-copilot": {
+      "id": "tutorial-basics/what-is-copilot",
+      "title": "What is a Copilot",
+      "description": "Copilot is an AI-powered assistant that can help you complete specific tasks. For example, it can act as a digital character, coding assistant, legal consultant, and much more. With Copilot, you can achieve more in less time and collaborate with others more effectively.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+    "tutorial-extras/prompt-engineer": {
+      "id": "tutorial-extras/prompt-engineer",
+      "title": "Prompt Enginner (WIP)",
+      "description": "One of the most powerful features for modern LLM is an ability called few-shot learning, which means that the model could perform very well based on the given input instead of fine-tuneing for every specific tasks.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "tutorial-extras/technique-behind": {
+      "id": "tutorial-extras/technique-behind",
+      "title": "Techniques (WIP)",
+      "description": "Technique structure behind Copilot Hub.",
       "sidebar": "tutorialSidebar"
     }
   }

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/integrate-a-copilot",
+  "id": "tutorial-basics/integrate-a-copilot",
+  "title": "Copilot Integration",
+  "description": "Besides making interaction on our website, we will also provide multiple integration approaches for you to integrate a Copilot into your own project or applications.",
+  "source": "@site/docs/tutorial-basics/integrate-a-copilot.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/integrate-a-copilot",
+  "permalink": "/docs/tutorial-basics/integrate-a-copilot",
+  "draft": false,
+  "editUrl": "https://github.com/index-labs/Copilothub-Docs/docs/tutorial-basics/integrate-a-copilot.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Copilot",
+    "permalink": "/docs/tutorial-basics/create-a-copilot"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}
