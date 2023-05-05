@@ -7,10 +7,10 @@ export default {
   "title": "🤖️ Copilot Hub",
   "tagline": "Create and explore AI assistants in Copilot Hub",
   "favicon": "img/robot.ico",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://app.copilothub.ai",
   "baseUrl": "/",
   "organizationName": "index-labs",
-  "projectName": "Copilothub-Docs",
+  "projectName": "copilothub-docs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/jiayuan/dev/indexlabs/Copilothub-Docs/sidebars.js",
-          "editUrl": "https://github.com/index-labs/Copilothub-Docs"
+          "editUrl": "https://github.com/index-labs/copilothub-docs"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/index-labs/Copilothub-Docs"
+          "editUrl": "https://github.com/index-labs/copilothub-docs"
         },
         "theme": {
           "customCss": "/Users/jiayuan/dev/indexlabs/Copilothub-Docs/src/css/custom.css"
@@ -51,7 +51,7 @@ export default {
           "label": "Docs"
         },
         {
-          "href": "https://github.com/index-labs/Copilothub-Docs",
+          "href": "https://github.com/index-labs/copilothub-docs",
           "label": "GitHub",
           "position": "right"
         }
@@ -78,7 +78,7 @@ export default {
               "href": "https://twitter.com/CopilotHubAI"
             },
             {
-              "label": "Telegram",
+              "label": "Telegram CN",
               "href": "https://t.me/copilothub_cn"
             }
           ]
@@ -89,10 +89,6 @@ export default {
             {
               "label": "Feedback",
               "href": "https://copilot-hub.canny.io/feedback"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }

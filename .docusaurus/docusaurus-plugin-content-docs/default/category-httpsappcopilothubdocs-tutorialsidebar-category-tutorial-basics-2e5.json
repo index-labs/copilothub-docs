@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Basics",
+  "slug": "/category/tutorial---basics",
+  "permalink": "/https://app.copilothub./docs/category/tutorial---basics",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/https://app.copilothub./docs/intro"
+    },
+    "next": {
+      "title": "What is a Copilot",
+      "permalink": "/https://app.copilothub./docs/tutorial-basics/what-is-copilot"
+    }
+  }
+}
