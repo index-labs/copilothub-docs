@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/copilot-management",
+  "id": "tutorial-basics/copilot-management",
+  "title": "After Creation",
+  "description": "After creating a Copilot, you can interact, update settings and add more data in Copilot dashboard.",
+  "source": "@site/docs/tutorial-basics/copilot-management.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/copilot-management",
+  "permalink": "/docs/tutorial-basics/copilot-management",
+  "draft": false,
+  "editUrl": "https://github.com/index-labs/Copilothub-Docs/docs/tutorial-basics/copilot-management.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Copilot",
+    "permalink": "/docs/tutorial-basics/create-a-copilot"
+  },
+  "next": {
+    "title": "Copilot Integration",
+    "permalink": "/docs/tutorial-basics/integrate-a-copilot"
+  }
+}

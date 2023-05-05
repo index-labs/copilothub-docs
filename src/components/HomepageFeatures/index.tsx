@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
    {
       title: 'Easy to Use',
-      Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+      Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
       description: (
          <>
             Copilot Hub is built for everyone. Whether you have any AI/Coding

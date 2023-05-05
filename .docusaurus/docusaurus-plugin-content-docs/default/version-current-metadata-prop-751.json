@@ -35,6 +35,12 @@
           },
           {
             "type": "link",
+            "label": "After Creation",
+            "href": "/docs/tutorial-basics/copilot-management",
+            "docId": "tutorial-basics/copilot-management"
+          },
+          {
+            "type": "link",
             "label": "Copilot Integration",
             "href": "/docs/tutorial-basics/integrate-a-copilot",
             "docId": "tutorial-basics/integrate-a-copilot"
@@ -70,6 +76,12 @@
       "id": "intro",
       "title": "Introduction",
       "description": "Welcome to Copilot Hub, the platform that makes creating and exploring Copilots easier than ever before! Copilot Hub provides a simple and intuitive way to create a Copilot based on personal data. Here anyone can create a Copilot without the need for coding. This means that everyone can fully utilize AI abilities, opening up a world of possibilities for collaboration and productivity.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/copilot-management": {
+      "id": "tutorial-basics/copilot-management",
+      "title": "After Creation",
+      "description": "After creating a Copilot, you can interact, update settings and add more data in Copilot dashboard.",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/create-a-copilot": {
