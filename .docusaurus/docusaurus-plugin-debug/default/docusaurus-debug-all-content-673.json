@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/index-labs/Copilothub-Docs/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/bohan/Desktop/IndexLabs/Copilothub-Docs/sidebars.js",
-          "contentPath": "/Users/bohan/Desktop/IndexLabs/Copilothub-Docs/docs",
-          "contentPathLocalized": "/Users/bohan/Desktop/IndexLabs/Copilothub-Docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/jiayuan/dev/indexlabs/Copilothub-Docs/sidebars.js",
+          "contentPath": "/Users/jiayuan/dev/indexlabs/Copilothub-Docs/docs",
+          "contentPathLocalized": "/Users/jiayuan/dev/indexlabs/Copilothub-Docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",
@@ -153,7 +153,7 @@
             {
               "unversionedId": "tutorial-extras/prompt-engineer",
               "id": "tutorial-extras/prompt-engineer",
-              "title": "Prompt Enginner",
+              "title": "Prompt Engineering",
               "description": "One of the most powerful features for modern LLM is an ability called few-shot learning, which means that the model could perform very well based on the given input instead of fine-tuneing for every specific tasks.",
               "source": "@site/docs/tutorial-extras/prompt-engineer.md",
               "sourceDirName": "tutorial-extras",
@@ -196,7 +196,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Prompt Enginner",
+                "title": "Prompt Engineering",
                 "permalink": "/docs/tutorial-extras/prompt-engineer"
               }
             }
