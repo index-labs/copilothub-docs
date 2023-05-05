@@ -87,6 +87,10 @@ export default {
                title: 'More',
                items: [
                   {
+                     label: 'Feedback',
+                     href: 'https://copilot-hub.canny.io/feedback',
+                  },
+                  {
                      label: 'GitHub',
                      href: 'https://github.com/facebook/docusaurus',
                   },

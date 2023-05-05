@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-   title: 'Copilot Hub',
+   title: '🤖️ Copilot Hub',
    tagline: 'Create and explore AI assistants in Copilot Hub',
    favicon: 'img/robot.ico',
 
@@ -110,6 +110,10 @@ const config = {
                      //     label: 'Blog',
                      //     to: '/blog',
                      //  },
+                     {
+                        label: 'Feedback',
+                        href: 'https://copilot-hub.canny.io/feedback',
+                     },
                      {
                         label: 'GitHub',
                         href: 'https://github.com/facebook/docusaurus',
