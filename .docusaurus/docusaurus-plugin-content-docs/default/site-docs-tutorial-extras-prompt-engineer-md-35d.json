@@ -1,7 +1,7 @@
 {
   "unversionedId": "tutorial-extras/prompt-engineer",
   "id": "tutorial-extras/prompt-engineer",
-  "title": "Prompt Enginner (WIP)",
+  "title": "Prompt Enginner",
   "description": "One of the most powerful features for modern LLM is an ability called few-shot learning, which means that the model could perform very well based on the given input instead of fine-tuneing for every specific tasks.",
   "source": "@site/docs/tutorial-extras/prompt-engineer.md",
   "sourceDirName": "tutorial-extras",

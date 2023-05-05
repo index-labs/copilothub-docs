@@ -6,7 +6,7 @@
 export default {
   "title": "Copilot Hub",
   "tagline": "Create and explore AI assistants in Copilot Hub",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/robot.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
   "organizationName": "index-labs",
@@ -42,17 +42,13 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Copilot Hub",
-      "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
-      },
+      "title": "🤖️ Copilot Hub",
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Docs"
         },
         {
           "href": "https://github.com/index-labs/Copilothub-Docs",

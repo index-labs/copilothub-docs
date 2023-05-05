@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
    title: 'Copilot Hub',
    tagline: 'Create and explore AI assistants in Copilot Hub',
-   favicon: 'img/favicon.ico',
+   favicon: 'img/robot.ico',
 
    // Set the production url of your site here
    url: 'https://your-docusaurus-test-site.com',
@@ -58,17 +58,17 @@ const config = {
          // Replace with your project's social card
          image: 'img/docusaurus-social-card.jpg',
          navbar: {
-            title: 'Copilot Hub',
-            logo: {
-               alt: 'My Site Logo',
-               src: 'img/logo.svg',
-            },
+            title: '🤖️ Copilot Hub',
+            // logo: {
+            //    alt: 'My Site Logo',
+            //    src: 'img/logo.svg',
+            // },
             items: [
                {
                   type: 'docSidebar',
                   sidebarId: 'tutorialSidebar',
                   position: 'left',
-                  label: 'Tutorial',
+                  label: 'Docs',
                },
                //  { to: '/blog', label: 'Blog', position: 'left' },
                {
