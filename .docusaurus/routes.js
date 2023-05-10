@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c17'),
+    component: ComponentCreator('/docs', 'd61'),
     routes: [
       {
         path: '/docs/category/tutorial---basics',
@@ -140,6 +140,12 @@ export default [
       {
         path: '/docs/tutorial-basics/what-is-copilot',
         component: ComponentCreator('/docs/tutorial-basics/what-is-copilot', 'c48'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/tutorial-extras/models',
+        component: ComponentCreator('/docs/tutorial-extras/models', '997'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

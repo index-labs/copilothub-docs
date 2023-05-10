@@ -151,6 +151,33 @@
               }
             },
             {
+              "unversionedId": "tutorial-extras/models",
+              "id": "tutorial-extras/models",
+              "title": "Models",
+              "description": "This tutorial is about teaching you how to select a model in Copilot Hub.",
+              "source": "@site/docs/tutorial-extras/models.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/models",
+              "permalink": "/docs/tutorial-extras/models",
+              "draft": false,
+              "editUrl": "https://github.com/index-labs/Copilothub-Docs/docs/tutorial-extras/models.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Prompt Enginner",
+                "permalink": "/docs/tutorial-extras/prompt-engineer"
+              },
+              "next": {
+                "title": "Techniques (WIP)",
+                "permalink": "/docs/tutorial-extras/technique-behind"
+              }
+            },
+            {
               "unversionedId": "tutorial-extras/prompt-engineer",
               "id": "tutorial-extras/prompt-engineer",
               "title": "Prompt Enginner",
@@ -173,8 +200,8 @@
                 "permalink": "/docs/category/tutorial---extras"
               },
               "next": {
-                "title": "Techniques (WIP)",
-                "permalink": "/docs/tutorial-extras/technique-behind"
+                "title": "Models",
+                "permalink": "/docs/tutorial-extras/models"
               }
             },
             {
@@ -190,14 +217,14 @@
               "editUrl": "https://github.com/index-labs/Copilothub-Docs/docs/tutorial-extras/technique-behind.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Prompt Enginner",
-                "permalink": "/docs/tutorial-extras/prompt-engineer"
+                "title": "Models",
+                "permalink": "/docs/tutorial-extras/models"
               }
             }
           ],
@@ -246,6 +273,10 @@
                   {
                     "type": "doc",
                     "id": "tutorial-extras/prompt-engineer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/models"
                   },
                   {
                     "type": "doc",

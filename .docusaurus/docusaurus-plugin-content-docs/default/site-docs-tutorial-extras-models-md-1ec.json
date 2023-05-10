@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/models",
+  "id": "tutorial-extras/models",
+  "title": "Models",
+  "description": "This tutorial is about teaching you how to select a model in Copilot Hub.",
+  "source": "@site/docs/tutorial-extras/models.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/models",
+  "permalink": "/docs/tutorial-extras/models",
+  "draft": false,
+  "editUrl": "https://github.com/index-labs/Copilothub-Docs/docs/tutorial-extras/models.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prompt Enginner",
+    "permalink": "/docs/tutorial-extras/prompt-engineer"
+  },
+  "next": {
+    "title": "Techniques (WIP)",
+    "permalink": "/docs/tutorial-extras/technique-behind"
+  }
+}

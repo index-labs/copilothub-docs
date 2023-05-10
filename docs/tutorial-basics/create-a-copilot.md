@@ -10,15 +10,15 @@ Instruction about how to create a Copilot in our platform.
 
 These are a few of the factors to consider when choosing Copilot.
 
-**Level of customization**: If you need a Copilot that is highly personalized to your specific needs and knowledge base, a Data Copilot may be the better choice. If you're looking for a more generalized tool that can assist with a variety of tasks, a Prompt Copilot may be sufficient.
+**Level of customization**: If you need a Copilot that is highly personalized to your specific needs and knowledge base, a **Data Copilot** may be the better choice. If you're looking for a more generalized tool that can assist with a variety of tasks, a Prompt Copilot may be sufficient.
 
-**Data availability**: Consider the availability and accessibility of the data you would need to create a Data Copilot. If you have a lot of relevant data readily available, a Data Copilot may be a good option. However, if you don't have access to much data or don't have the time or resources to gather it, a Prompt Copilot may be a better choice.
+**Data availability**: Consider the availability and accessibility of the data you would need to create a Data Copilot. If you have a lot of relevant data readily available, a Data Copilot may be a good option. However, if you don't have access to much data or don't have the time or resources to gather it, a **Prompt Copilot** may be a better choice.
 
 ## Create a Copilot
 
 Click the `Create` button in `Home` page and follow the creating steps.
 
-### Uploading Data
+### 1. Uploading Data (For Data Copilot)
 
 ![Upload Data Image](/img/upload_data.jpeg)
 
@@ -28,17 +28,24 @@ The number of files/urls to upload is unlimited for everyone. Token size is the 
 
 100 words is roughly equal to 70 tokens.
 
-### Fill up Copilot settings
+### 2. Fill up Copilot settings
 
 There are a few fields to complete while creating a Copilot.
 
-#### Name & Description
+![Create Copilot Form](/img/create-form.png)
+
+#### (a) Name & Description
 
 Information shown on the Copilot card. **These field will not impact the output results from AI**.
 
-![Copilot Card](/img/copilot_card.jpeg)
+#### (b) Choose a model
 
-#### User Prompt
+Your Copilot will generate answers based on the choosen model. We have supported
+`GPT-3.5` and `GPT-4`. We will add more LLM options in the future!
+
+We also write a tutorial about [How to choose your model](/tutorial-extras/models.md)
+
+#### (c) User Prompt
 
 This field will determine the final role and response of your Copilot. Leave it alone if you prefer talking to the model directly without any instruction.
 

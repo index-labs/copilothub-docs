@@ -62,6 +62,12 @@
           },
           {
             "type": "link",
+            "label": "Models",
+            "href": "/docs/tutorial-extras/models",
+            "docId": "tutorial-extras/models"
+          },
+          {
+            "type": "link",
             "label": "Techniques (WIP)",
             "href": "/docs/tutorial-extras/technique-behind",
             "docId": "tutorial-extras/technique-behind"
@@ -100,6 +106,12 @@
       "id": "tutorial-basics/what-is-copilot",
       "title": "What is a Copilot",
       "description": "Copilot is an AI-powered assistant that can help you complete specific tasks. For example, it can act as a digital character, coding assistant, legal consultant, and much more. With Copilot, you can achieve more in less time and collaborate with others more effectively.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/models": {
+      "id": "tutorial-extras/models",
+      "title": "Models",
+      "description": "This tutorial is about teaching you how to select a model in Copilot Hub.",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-extras/prompt-engineer": {

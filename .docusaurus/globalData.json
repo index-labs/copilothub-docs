@@ -36,6 +36,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorial-extras/models",
+              "path": "/docs/tutorial-extras/models",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorial-extras/prompt-engineer",
               "path": "/docs/tutorial-extras/prompt-engineer",
               "sidebar": "tutorialSidebar"
