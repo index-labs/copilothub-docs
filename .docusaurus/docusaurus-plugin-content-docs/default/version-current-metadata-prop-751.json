@@ -56,7 +56,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Prompt Enginner",
+            "label": "Prompt Engineering",
             "href": "/docs/tutorial-extras/prompt-engineer",
             "docId": "tutorial-extras/prompt-engineer"
           },
@@ -116,7 +116,7 @@
     },
     "tutorial-extras/prompt-engineer": {
       "id": "tutorial-extras/prompt-engineer",
-      "title": "Prompt Enginner",
+      "title": "Prompt Engineering",
       "description": "One of the most powerful features for modern LLM is an ability called few-shot learning, which means that the model could perform very well based on the given input instead of fine-tuneing for every specific tasks.",
       "sidebar": "tutorialSidebar"
     },

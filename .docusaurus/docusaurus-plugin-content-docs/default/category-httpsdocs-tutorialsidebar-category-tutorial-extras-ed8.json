@@ -1,15 +1,15 @@
 {
   "title": "Tutorial - Extras",
   "slug": "/category/tutorial---extras",
-  "permalink": "/docs/category/tutorial---extras",
+  "permalink": "/https:/docs/category/tutorial---extras",
   "navigation": {
     "previous": {
       "title": "Copilot Integration",
-      "permalink": "/docs/tutorial-basics/integrate-a-copilot"
+      "permalink": "/https:/docs/tutorial-basics/integrate-a-copilot"
     },
     "next": {
       "title": "Prompt Engineering",
-      "permalink": "/docs/tutorial-extras/prompt-engineer"
+      "permalink": "/https:/docs/tutorial-extras/prompt-engineer"
     }
   }
 }

@@ -11,7 +11,7 @@ const config = {
    favicon: 'img/robot.ico',
 
    // Set the production url of your site here
-   url: 'https://your-docusaurus-test-site.com',
+   url: 'https://app.copilothub.ai',
    // Set the /<baseUrl>/ pathname under which your site is served
    // For GitHub pages deployment, it is often '/<projectName>/'
    baseUrl: '/',
@@ -19,7 +19,7 @@ const config = {
    // GitHub pages deployment config.
    // If you aren't using GitHub pages, you don't need these.
    organizationName: 'index-labs',
-   projectName: 'Copilothub-Docs',
+   projectName: 'copilothub-docs',
 
    onBrokenLinks: 'throw',
    onBrokenMarkdownLinks: 'warn',
@@ -39,11 +39,11 @@ const config = {
          ({
             docs: {
                sidebarPath: require.resolve('./sidebars.js'),
-               editUrl: 'https://github.com/index-labs/Copilothub-Docs',
+               editUrl: 'https://github.com/index-labs/copilothub-docs',
             },
             blog: {
                showReadingTime: true,
-               editUrl: 'https://github.com/index-labs/Copilothub-Docs',
+               editUrl: 'https://github.com/index-labs/copilothub-docs',
             },
             theme: {
                customCss: require.resolve('./src/css/custom.css'),
@@ -72,7 +72,7 @@ const config = {
                },
                //  { to: '/blog', label: 'Blog', position: 'left' },
                {
-                  href: 'https://github.com/index-labs/Copilothub-Docs',
+                  href: 'https://github.com/index-labs/copilothub-docs',
                   label: 'GitHub',
                   position: 'right',
                },
@@ -98,7 +98,7 @@ const config = {
                         href: 'https://twitter.com/CopilotHubAI',
                      },
                      {
-                        label: 'Telegram',
+                        label: 'Telegram CN',
                         href: 'https://t.me/copilothub_cn',
                      },
                   ],
@@ -114,10 +114,10 @@ const config = {
                         label: 'Feedback',
                         href: 'https://copilot-hub.canny.io/feedback',
                      },
-                     {
-                        label: 'GitHub',
-                        href: 'https://github.com/facebook/docusaurus',
-                     },
+                     // {
+                     //    label: 'GitHub',
+                     //    href: 'https://github.com/facebook/docusaurus',
+                     // },
                   ],
                },
             ],
