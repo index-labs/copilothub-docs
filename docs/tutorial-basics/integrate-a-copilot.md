@@ -20,7 +20,7 @@ We have already supported Copilot API integration.
 
 Host: `https://api.copilothub.ai/`
 
-### Q&A with Copilot
+### Q&A with Copilot (Non-Stream)
 
 Route: ** /openapi/v1/query **
 
@@ -44,6 +44,28 @@ Method: ** POST **
 | package_quota | User's package quota         | int      |
 | err_code      | Represent the error code.    | int      |
 | msg           | Represent the error message. | string   |
+
+### Q&A with Copilot (Stream)
+
+Route: ** /openapi/v1/query/stream **
+
+Method: ** POST **
+
+** Request **
+
+| Params  | Description      | Extra    |
+| ------- | ---------------- | -------- |
+| api_key | Copilot API Key  | Required |
+| query   | Question content | Required |
+
+```
+curl -v -N --location --request POST 'https://api.copilothub.ai/openapi/v1/query/stream' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "api_key":"XXX",
+    "query":"XXX"
+}'
+```
 
 ### Error Code
 
