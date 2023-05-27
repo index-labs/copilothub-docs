@@ -28,10 +28,11 @@ Method: ** POST **
 
 ** Request **
 
-| Params  | Description      | Extra    |
-| ------- | ---------------- | -------- |
-| api_key | Copilot API Key  | Required |
-| query   | Question content | Required |
+| Params      | Description      | Extra                     |
+| ----------- | ---------------- | ------------------------- |
+| api_key     | Copilot API Key  | Required                  |
+| query       | Question content | Required                  |
+| with_memory | Copilot Memory   | Optional (default: False) |
 
 ** Response **
 
@@ -53,10 +54,11 @@ Method: ** POST **
 
 ** Request **
 
-| Params  | Description      | Extra    |
-| ------- | ---------------- | -------- |
-| api_key | Copilot API Key  | Required |
-| query   | Question content | Required |
+| Params      | Description      | Extra                     |
+| ----------- | ---------------- | ------------------------- |
+| api_key     | Copilot API Key  | Required                  |
+| query       | Question content | Required                  |
+| with_memory | Copilot Memory   | Optional (default: False) |
 
 ```
 curl -v -N --location --request POST 'https://api.copilothub.ai/openapi/v1/query/stream' \
