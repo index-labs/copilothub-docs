@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/bohan/Desktop/IndexLabs/Copilothub-Docs/sidebars.js",
-          "editUrl": "https://github.com/index-labs/copilothub-docs"
+          "editUrl": "https://github.com/index-labs/copilothub-docs/blob/main/"
         },
         "blog": {
           "showReadingTime": true,

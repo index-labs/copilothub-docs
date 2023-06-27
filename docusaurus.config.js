@@ -39,7 +39,8 @@ const config = {
          ({
             docs: {
                sidebarPath: require.resolve('./sidebars.js'),
-               editUrl: 'https://github.com/index-labs/copilothub-docs',
+               editUrl:
+                  'https://github.com/index-labs/copilothub-docs/blob/main/',
             },
             blog: {
                showReadingTime: true,
